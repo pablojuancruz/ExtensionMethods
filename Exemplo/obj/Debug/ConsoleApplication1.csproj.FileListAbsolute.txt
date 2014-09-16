@@ -1,0 +1,6 @@
+C:\Users\pablo\Documents\Blog2014\Deixe a Bola Correr\ExtensionMethods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pablo\Documents\Blog2014\Deixe a Bola Correr\ExtensionMethods\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\Blog2014\Deixe a Bola Correr\ExtensionMethods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\pablo\Documents\Blog2014\Deixe a Bola Correr\ExtensionMethods\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\pablo\Documents\Blog2014\Deixe a Bola Correr\ExtensionMethods\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\pablo\Documents\Blog2014\Deixe a Bola Correr\ExtensionMethods\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
